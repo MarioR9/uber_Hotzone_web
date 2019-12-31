@@ -1,0 +1,19 @@
+{
+  "name": "uber_hotzone_web",
+  "version": "1.0.0",
+  "description": "web verison",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarioR9/uber_Hotzone_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarioR9/uber_Hotzone_web/issues"
+  },
+  "homepage": "https://github.com/MarioR9/uber_Hotzone_web#readme"
+}
